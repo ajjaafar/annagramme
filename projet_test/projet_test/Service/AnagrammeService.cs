@@ -21,7 +21,7 @@ namespace projet_test.Service
                 string firstwordsorted = string.Concat(word1.OrderBy(x => x));
                 string secondewordsorted = string.Concat(word2.OrderBy(x => x));
                 bool iswordsame = firstwordsorted == secondewordsorted;
-
+                return iswordsame;
             }
 
         }
