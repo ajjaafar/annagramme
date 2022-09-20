@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lerat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lerat\\.nuget\\packages"
+    ]
+  }
+}
